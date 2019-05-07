@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-jupyter is big
+jupyter is big and beautiful
 =======
 Landing might be challenging - maybe we can build a space station
 >>>>>>> f6936fc485d010b13f957e3bfd3194f14b517004
